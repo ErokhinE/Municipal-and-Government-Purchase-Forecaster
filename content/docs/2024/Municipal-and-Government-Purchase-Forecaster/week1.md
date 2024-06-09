@@ -89,7 +89,7 @@ Our team leverages advanced AI algorithms to categorize and forecast procurement
 - Overview: The project aims to create an AI-powered procurement assistant for government agencies in Moscow, automating inventory management, demand forecasting, and procurement request generation to improve efficiency and accuracy.
 
 - Schematic Drawings: The system includes a web/desktop chatbot interface accessible via applications like Telegram, where users can log in, request inventory data, receive visual forecasts, and generate JSON procurement requests for integration with external systems.
-![UML Sequence Diagram](https://github.com/ErokhinE/Municipal-and-Government-Purchase-Forecaster/blob/master/content/docs/2024/Municipal-and-Government-Purchase-Forecaster/UML.png)
+![UML Sequence Diagram](/2024/Municipal-and-Government-Purchase-Forecaster/UML.png)
 
 - Tech Stack:
     
